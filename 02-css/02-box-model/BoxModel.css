@@ -1,0 +1,20 @@
+.box{
+    height: 100px;
+    width: 200px;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 20px;
+    
+}
+
+#boxa{
+    background-color: lightblue;
+}
+
+#boxb{
+    background-color: lightcoral;
+}
+
+#boxc{
+    background-color: lightgoldenrodyellow;
+}

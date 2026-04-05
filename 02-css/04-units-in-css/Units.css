@@ -1,0 +1,18 @@
+#parent-div{
+    height: 100px;
+    width: 500px;
+    background-color: blue;
+}
+
+#child-div{
+    height: 10%;
+    width: 10%;
+    background-color: greenyellow;
+    margin: 10px;
+}
+
+#first-para{
+    background-color: violet;
+    width: 50vw;
+    height: 50vh;
+}
